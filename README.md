@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Pavithra
 
 Cybersecurity Student @ SKCT
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">             
+<img align="right" width="300" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">             
                                                                                                                                            
 - 🌱 I’m currently learning B.E CSE (Cybersecurity)
 - 👯 I’m looking to collaborate on ML/AI

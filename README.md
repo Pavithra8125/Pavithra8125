@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="180" alt="cybersecurity gif" />
 
 # Pavithra M
-### Cybersecurity Engineering Student · Ethical Hacker · AI Security Researcher
+### Digital Forensics & DFIR · SOC Analyst · Cybersecurity Engineering Student
 
 *B.E. Cybersecurity Engineering @ Sri Krishna College of Technology, Coimbatore (2023–2027)*
 
@@ -18,30 +18,27 @@
 
 ## 🧠 About Me
 
-I'm a cybersecurity engineering student with hands-on experience in penetration testing, digital forensics, and AI-powered security systems. I've worked at a Cyber Crime Cell, built real SIEM tools, and trained ML models to detect network intrusions — not just studied them.
+I'm a final-year cybersecurity engineering student focused on **Digital Forensics and Incident Response (DFIR)**, with hands-on SOC and cyber crime investigation experience. I've worked inside a live SOC triaging real alerts, and inside a Cyber Crime Cell handling actual mobile forensics evidence — not just studied the theory.
 
-Currently building **SecureCI Guardian**, an AI-powered DevSecOps pipeline security framework, while preparing for placements at top tech firms and freelancing as a cybersecurity tutor on Upwork.
-
-```
-🎯  Focus          →  Penetration Testing · Digital Forensics · AI Security
+Currently expanding my forensics toolkit (log correlation, memory/disk analysis) and preparing for placements and internships in Digital Forensics, SOC, and VAPT roles.
+🎯  Focus          →  Digital Forensics · DFIR · SOC · VAPT
 🏛️  Education      →  B.E. Cybersecurity Engineering, SKCT (Sem 7)
 🌏  Location       →  Coimbatore, Tamil Nadu, India
-💼  Open to        →  Cybersecurity internships · Campus placements · Freelance projects
-📚  Learning now   →  DevSecOps · Advanced DSA · Japanese (long-term goal: work abroad)
-```
+💼  Open to        →  Cybersecurity / Digital Forensics internships · Campus placements
+📚  Learning now   →  Advanced DSA · Digital Forensics tools (Autopsy, Volatility)
 
 ---
 
 ## 🔧 Tech Stack
 
-**Security & Hacking**
+**Security & Forensics**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white)
 
 **Languages**
 
@@ -51,43 +48,16 @@ Currently building **SecureCI Guardian**, an AI-powered DevSecOps pipeline secur
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML & AI Security**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-explainability-blueviolet?style=for-the-badge)
-
-**Web & DevSecOps**
+**Web & Backend**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
-
-### 🛡️ SecureCI Guardian — AI-Powered DevSecOps Pipeline Security
-> *Capstone Project · Team 18 · Mentor: Kiruthika ma'am*
-
-An intelligent security framework that integrates into CI/CD pipelines (GitHub Actions) to detect, score, and explain threats in real time using XGBoost ML risk scoring, Flask API, and Chart.js dashboards.
-
-`Python` `GitHub Actions` `Flask` `XGBoost` `SQLite` `Chart.js` `DevSecOps`
-
----
-
-### 🧠 MAIROS — ML-Powered Network Intrusion Detection System
-> *IEEE Conference Paper · UNSW-NB15 Dataset*
-
-Hybrid XGBoost (90.12%) + LSTM (91.38%) model for network intrusion detection with SHAP explainability, an Adaptive Confidence Engine (ACE) with dynamic thresholds, and Groq/LLaMA API integration for natural-language threat explanation.
-
-`Python` `XGBoost` `LSTM` `SHAP` `Groq API` `UNSW-NB15` `IEEE`
-
----
 
 ### 🔍 SecureTrack — Tower Dump Forensic Analysis Tool
 > *Digital Forensics · Mobile Evidence Processing*
@@ -99,9 +69,9 @@ A forensic tool for tower dump analysis with React frontend and Flask + Python b
 ---
 
 ### 📊 Log Analysis & SIEM Tool
-> *Open Source · [Pavithra8125/log-siem-tool]*
+> *Python-based SIEM tool*
 
-A Python-based Security Information and Event Management tool for parsing, correlating, and alerting on log events — built to replicate core SOC workflows for learning and demonstration.
+Parses, correlates, and generates alerts from log data — built to replicate core SOC analyst workflows for detection and triage.
 
 `Python` `SIEM` `Log Analysis` `SOC` `Security Automation`
 
@@ -136,30 +106,12 @@ Personal portfolio with Spring Boot backend, React frontend, PostgreSQL database
 | Azure Fundamentals (AZ-900) | Microsoft |
 | Introduction to Cybersecurity | Cisco NetAcad |
 | Networking Basics | Cisco NetAcad |
-| Python Essentials | Cisco NetAcad |
-| Ethical Hacking Essentials (EHE) | EC-Council |
-| Cybersecurity Essentials | EC-Council |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pavithra8125&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithra8125&theme=midnight-purple&hide_border=true" height="165" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra8125&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="150" alt="Top languages" />
-
-</div>
 
 ---
 
 ## 💬 Freelancing
 
-I tutor **cybersecurity fundamentals, Linux hardening, and penetration testing labs** on Upwork — tailored for beginners working through real hands-on exercises.
-
-[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+Cybersecurity tutor on [Upwork](https://www.upwork.com) — Linux hardening & pentesting labs for beginners.
 
 ---
 
